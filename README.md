@@ -2,7 +2,7 @@
 # Valorant Post-Game Image
  Generation of Valorant Post-Game Stats.
 
-![b2ab433e-3ac4-46d3-bc8f-1c147b04de07](https://raw.githubusercontent.com/ranamerp/val-image-generator/master/output/output.png)
+![b2ab433e-3ac4-46d3-bc8f-1c147b04de07](https://github.com/kaliu2022/niu-val-post-match-gen/blob/master/output/output_example.png?raw=true)
 
 ## Usage
 
@@ -11,9 +11,9 @@ Python >= 3.7. To download Python, follow [these](https://github.com/PackeTsar/I
 
 
 ### 1. Clone GitHub Repository
-[Download](https://github.com/ranamerp/val-image-generator/archive/refs/heads/master.zip) or clone the repo:
+[Download](https://github.com/kaliu2022/niu-val-post-match-gen/archive/refs/heads/master.zip) or clone the repo:
 ```
-git clone https://github.com/ranamerp/val-image-generator.git
+git clone https://github.com/kaliu2022/niu-val-post-match-gen.git
 ```
 
 ### 2. Install Python packages
@@ -36,4 +36,4 @@ python main.py
 Colors and team names can be adjusted in the `colors.json` file. Team A is first-half attackers, and Team B is second-half attackers.
 Images are outputted in `/output` with the file name being either output.png, or the matchid of the game.
 
-Special thanks to colinhartigan, whose code makes up the majority of this project, and to Hendrik, who's API makes this code non-dependent on the in-game client.
+Special thanks to colinhartigan, whose code makes up the majority of this project,, to Hendrik, who's API makes this code non-dependent on the in-game client, and ranamerp who cleaned up and revived this project for more usage to come in the community esports scene.
