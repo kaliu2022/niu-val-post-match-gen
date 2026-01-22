@@ -1,8 +1,8 @@
 {
     "team_a": "GEN",
     "team_b": "LOUD",
-    "primary": "#0096bb",
-    "secondary": "#2b2d31",
+    "primary": "#C8102E",
+    "secondary": "#000000",
     "tertiary": "#ffffff",
     "logo": "data/misc_assets/logo.png",
     "output": "True" 
