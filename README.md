@@ -36,4 +36,4 @@ python main.py
 Colors and team names can be adjusted in the `colors.json` file. Team A is first-half attackers, and Team B is second-half attackers.
 Images are outputted in `/output` with the file name being either output.png, or the matchid of the game.
 
-Special thanks to colinhartigan, whose code makes up the majority of this project,, to Hendrik, who's API makes this code non-dependent on the in-game client, and ranamerp who cleaned up and revived this project for more usage to come in the community esports scene.
+Special thanks to colinhartigan, whose code makes up the majority of this project,, to Hendrik, who's API makes this code non-dependent on the in-game client, and ranamerp, who cleaned up and revived this project for more usage to come in the community esports scene.
